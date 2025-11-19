@@ -433,8 +433,7 @@
   },
   "timepicker": {},
   "timezone": "",
-  "title": "Objectstore stats",
-  "uid": "GVg3TAx72",
+  "title": "Object Store Utilization Metrics",
   "version": 1,
   "weekStart": ""
 }

@@ -146,7 +146,7 @@
           {
             "matcher": {
               "id": "byName",
-              "options": "bucket1(grimreaper)"
+              "options": "bucket1(blank)"
             },
             "properties": [
               {
@@ -161,7 +161,7 @@
           {
             "matcher": {
               "id": "byName",
-              "options": "bucket1(grimreaper)"
+              "options": "bucket1(blank)"
             },
             "properties": [
               {
@@ -1391,8 +1391,7 @@
   },
   "timepicker": {},
   "timezone": "",
-  "title": "Buckets performance stats",
-  "uid": "GVg3TAx71",
+  "title": "Bucket Performance Metrics",
   "version": 5,
   "weekStart": ""
 }

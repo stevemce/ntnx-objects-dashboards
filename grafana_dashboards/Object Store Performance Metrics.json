@@ -133,7 +133,7 @@
           {
             "matcher": {
               "id": "byName",
-              "options": "bucket1(grimreaper)"
+              "options": "bucket1(blank)"
             },
             "properties": [
               {
@@ -148,7 +148,7 @@
           {
             "matcher": {
               "id": "byName",
-              "options": "bucket1(grimreaper)"
+              "options": "bucket1(blank)"
             },
             "properties": [
               {
@@ -163,7 +163,7 @@
           {
             "matcher": {
               "id": "byName",
-              "options": "bucket1(grimreaper)"
+              "options": "bucket1(blank)"
             },
             "properties": [
               {
@@ -1386,8 +1386,7 @@
   },
   "timepicker": {},
   "timezone": "",
-  "title": "Objectstore performance stats",
-  "uid": "GVg3TAx76",
+  "title": "Object Store Performance Metrics",
   "version": 4,
   "weekStart": ""
 }
