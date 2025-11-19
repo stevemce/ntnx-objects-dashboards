@@ -80,7 +80,7 @@ Note: The object store and the bucket name can be fetched from the Prism Central
 	e. Click Save & Test. Data source will be added if the url is correct.
 
  
-# Create dashboards. 
+# Create Dashboards 
 
 Downaload each JSON file present in grafana_dashboards folder in this repository, and import each one into Grafana as a new dashboard. The dashboards contain collections of graphs showing the various stats that relate to that particular dahsboard category.
 
